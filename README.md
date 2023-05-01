@@ -1,7 +1,7 @@
 ![MasterHead](https://media.tenor.com/ozZ0UdbB8TEAAAAC/welcome-banner.gif)
 <h1 align="center">Hi 👋, I'm Pritam Mondal</h1>
 <h3 align="center">A noob coder....</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/76633510/121884082-cac5d400-cd12-11eb-9511-f790b2fe1787.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/76633510/121884082-cac5d400-cd12-11eb-9511-f790b2fe1787.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam-02&label=Profile%20views&color=0e75b6&style=flat" alt="pritam-02" /> </p>
 
