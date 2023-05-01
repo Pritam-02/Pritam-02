@@ -1,14 +1,14 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
 <h1 align="center">Hi 👋, I'm Pritam Mondal</h1>
 <h3 align="center">A noob coder....</h3>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/76633510/121884082-cac5d400-cd12-11eb-9511-f790b2fe1787.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam-02&label=Profile%20views&color=0e75b6&style=flat" alt="pritam-02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritam-02" alt="pritam-02" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/76633510/121884082-cac5d400-cd12-11eb-9511-f790b2fe1787.gif">
 - 🔭 I’m currently working on **my Academic Project**
 
 - 🌱 I’m currently learning **Pandas, Automata, Tensorflow, Web Development**
