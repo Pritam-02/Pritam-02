@@ -26,6 +26,7 @@
 <a href="https://instagram.com/_rayzer___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rayzer___" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@hyperrayzer7889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@hyperrayzer7889" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pm4517690" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pm4517690" height="30" width="40" /></a>
+ <a href="https://discord.gg/https://discord.com/channels/847166072415453194/847174333889380402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/847166072415453194/847174333889380402" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
