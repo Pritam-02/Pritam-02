@@ -1,4 +1,4 @@
-![MasterHead](https://media.tenor.com/ozZ0UdbB8TEAAAAC/welcome-banner.gif)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Pritam Mondal</h1>
 <h3 align="center">A noob coder....</h3>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/76633510/121884082-cac5d400-cd12-11eb-9511-f790b2fe1787.gif">
