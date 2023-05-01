@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pritam-mondal-5a1076254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-mondal-5a1076254" height="30" width="40" /></a>
-<a href="https://fb.com/pritam mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pritam mondal" height="30" width="40" /></a>
+<a href="https://www.facebook.com/kakali.mondal.5243817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pritam mondal" height="30" width="40" /></a>
 <a href="https://instagram.com/_rayzer___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rayzer___" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@hyperrayzer7889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@hyperrayzer7889" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pm4517690" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pm4517690" height="30" width="40" /></a>
