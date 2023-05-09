@@ -2,13 +2,12 @@
 <h1 align="center">Hi 👋, I'm Pritam Mondal</h1>
 <h3 align="center">A noob coder....</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam-02&label=Profile%20views&color=0e75b6&style=flat" alt="pritam-02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritam-02" alt="pritam-02" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/76633510/121884082-cac5d400-cd12-11eb-9511-f790b2fe1787.gif">
+
 - 🔭 I’m currently working on **my Academic Project**
 
 - 🌱 I’m currently learning **Pandas, Automata, Tensorflow, Web Development**
@@ -21,10 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pritam-mondal-5a1076254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-mondal-5a1076254" height="30" width="40" /></a>
-<a href="https://www.facebook.com/kakali.mondal.5243817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pritam mondal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pritam-mondal-5a1076254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-mondal-5a1076254" height="30" width="40" /></a>
+<a href="https://fb.com/pritam mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pritam mondal" height="30" width="40" /></a>
 <a href="https://instagram.com/_rayzer___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rayzer___" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@hyperrayzer7889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@hyperrayzer7889" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@hyperrayzer7889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@hyperrayzer7889" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pm4517690" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pm4517690" height="30" width="40" /></a>
 <a href="https://discord.gg/847174333889380402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="847174333889380402" height="30" width="40" /></a>
 </p>
